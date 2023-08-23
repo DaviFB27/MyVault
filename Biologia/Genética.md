@@ -1,2 +1,0 @@
-Mendel
-as
