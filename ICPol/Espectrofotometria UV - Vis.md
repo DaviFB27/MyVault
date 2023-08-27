@@ -1,5 +1,4 @@
 Introdução 
-
   A Espectroscopia UV/visível se baseia  em medidas de absorção da radiação eletromagnética, das regiões visíveis e ultra violeta do espectro nas regiões que possui complementos de ondas entre 190 e 800, medindo a quantidade de luz absorvida pela amostra. 
   Esse aspecto envolve espectroscopia de fótons. Ela utiliza luz na faixa do visível, do ultravioleta próximo e do infravermelho próximo. Nessas faixas de energia as moléculas sofrem transições eletrônicas moleculares.
 
