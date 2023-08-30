@@ -2,9 +2,10 @@
 Date: {{date}}
 Time: {{time}}
 Title: {{title}}
-Status: incomplete
+Completed: false
 Aliases: 
-Tags: note
+Tags:
+  - note
 ---
 
 # {{Title}}

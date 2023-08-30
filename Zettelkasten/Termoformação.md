@@ -1,9 +1,9 @@
 ---
 Date: 2023/08/30
-Time: 12:35
+Time: 12:56
 Title: Termoformação
-Status: incomplete
-Aliases: Termoformagem
+Completed: false
+Aliases: 
 Tags:
   - note
   - química/polímeros/processamento
@@ -14,4 +14,5 @@ Tags:
 
 
 # Referências
+
 

@@ -1,13 +1,14 @@
 ---
 Date: 2023/08/30
-Time: 12:36
+Time: 12:51
 Title: Injeção
-Status: incomplete
+Completed: false
 Aliases: 
 Tags:
-  - note
-  - química/polímeros/processamento
+  - note 
+  - química/polímeros/processamento 
 ---
+
 # Injeção
 
 
