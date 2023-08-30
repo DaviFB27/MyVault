@@ -1,7 +1,10 @@
-{{date}}  {{time}}
-Status: #idea
+---
+Status: Idea
+Date: {{date}}
+Time: {{time}}
+Title: {{title}}
 Tags:
-
+---
 {{Title}}
 ---
 
