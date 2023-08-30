@@ -1,0 +1,11 @@
+2023/08/30  12:03
+Status: #idea
+Tags:
+
+Química
+---
+
+Referências
+======
+
+
