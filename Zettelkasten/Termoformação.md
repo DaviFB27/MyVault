@@ -7,10 +7,10 @@ Aliases:
 Tags:
   - note
   - química/polímeros/processamento
+  - [[Wikilink]]
 ---
 
 # Termoformação
-
 
 
 # Referências
