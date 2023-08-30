@@ -1,14 +1,15 @@
 ---
-Status: Idea
 Date: {{date}}
 Time: {{time}}
 Title: {{title}}
-Tags:
----
-{{Title}}
+Status: incomplete
+Aliases: 
+Tags: note
 ---
 
-Referências
-======
+# {{Title}}
 
+
+
+# Referências
 
