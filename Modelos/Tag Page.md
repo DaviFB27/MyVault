@@ -1,14 +1,9 @@
 ---
 Date: {{date}}
 Time: {{time}}
-Aliases: 
+Aliases: #{{title}}
 Tags:
-  - Note
+  - TagPage
 ---
 
 # {{Title}}
-
-
-
-# Referências
-

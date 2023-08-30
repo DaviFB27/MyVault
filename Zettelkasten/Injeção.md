@@ -6,7 +6,7 @@ Completed: false
 Aliases: 
 Tags:
   - Note 
-  - Química/polímeros/processamento 
+  - Química/Polímeros/Processamento 
 ---
 
 # Injeção

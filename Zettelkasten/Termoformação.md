@@ -5,8 +5,8 @@ Title: Termoformação
 Completed: false
 Aliases: 
 Tags:
-  - note
-  - Química/polímeros/processamento
+  - Note
+  - Química/Polímeros/Processamento
 ---
 
 # Termoformação
