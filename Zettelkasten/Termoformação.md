@@ -6,8 +6,7 @@ Completed: false
 Aliases: 
 Tags:
   - note
-  - química/polímeros/processamento
-  - [[Wikilink]]
+  - Química/polímeros/processamento
 ---
 
 # Termoformação

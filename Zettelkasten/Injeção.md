@@ -5,8 +5,8 @@ Title: Injeção
 Completed: false
 Aliases: 
 Tags:
-  - note 
-  - química/polímeros/processamento 
+  - Note 
+  - Química/polímeros/processamento 
 ---
 
 # Injeção

@@ -5,7 +5,7 @@ Title: {{title}}
 Completed: false
 Aliases: 
 Tags:
-  - note
+  - Note
 ---
 
 # {{Title}}
