@@ -1,14 +1,11 @@
 ---
 Date: 2023/08/30
-Time: 19:56
-Title: Estequiometria
-Completed: false
+Time: 20:27
 Aliases: 
-Tags:
-  - Note
-  - Química
+Tags: Note
 ---
-
+Status: #Incompleto
+Tags: [[Química]]
 # Estequiometria
 
 

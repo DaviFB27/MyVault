@@ -1,17 +1,14 @@
 ---
 Date: 2023/08/30
-Time: 12:56
-Title: Termoformação
-Completed: false
+Time: 20:27
 Aliases: 
-Tags:
-  - Note
-  - Química/Polímeros/Processamento
+Tags: Note
 ---
-
+Status: #Incompleto
+Tags: [[Polímeros]]
 # Termoformação
 
 
-# Referências
 
+# Referências
 
