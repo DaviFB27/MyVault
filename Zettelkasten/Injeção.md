@@ -1,11 +1,10 @@
 ---
 Date: 2023/08/30
-Time: 20:27
+Time: 20:42
 Aliases: 
-Tags: Note
+Status: Note
+Tags: Química/Polímeros
 ---
-Status: #Incompleto
-Tags: [[Polímeros]]
 # Injeção
 
 

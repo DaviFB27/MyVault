@@ -2,7 +2,7 @@
 Date: {{date}}
 Time: {{time}}
 Aliases: #{{title}}
-Tags: TagPage
+Status: TagPage
 ---
 
 # {{Title}}
