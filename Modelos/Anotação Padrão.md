@@ -5,7 +5,7 @@ Aliases:
 Status: Note
 Tags: 
 ---
-# {{title}}
+{{title}}
 
 
 
