@@ -1,8 +1,9 @@
 ---
-Date: {{date}}
-Time: {{time}}
-Aliases: #{{title}}
+Date:
+  "{ date }": 
+Time:
+  "{ time }": 
+aliases: 
 Status: TagPage
 ---
-
 # {{Title}}
