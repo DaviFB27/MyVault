@@ -10,20 +10,5 @@ Os nanomateriais, ou materiais de escala nanométrica, podem apresentar propried
 ![[main-qimg-c8573ff86c6f55cc44b9af0050820044-lq.jpeg]]
 
 Isso causa um aumento na energia da superfície do material, tornando-o mais reativo, já que os átomos na superfície tem menor número de coordenação, ou seja, são menos estáveis e mais reativos em comparação com os átomos do seu interior.
-Os Nanomateriais podem ser classificados em:
-
-0D: todas as dimensões do material são nanométricas
-	Ex: Nanopartículas metálicas, cerâmicas e poliméricas.
-
-1D: uma dimensão fora da escala nanométrica
-	Ex: Nanofibras; Nanotubos; Nanofios
-
-2D: duas dimensões fora da escala nanométrica
-	Ex: Filmes finos
-
-3D: materiais macrométricos formados pelo arranjo de nanoestruturas 0D, 1D, e 2D, ou estruturas porosas 3d, que preservam a estrutura nanométrica dos seus constituintes.
-	Ex: Dispersões de nanopartículas; Feixes de nanofibras e nanotubos; Filmes finos contendo várias camadas
-
-
-
-
+## Nanocompósitos
+Materiais compósitos são o resultado da combinação de polímeros com outros materiais - como madeira, fibra de vidro, grafite -, e podem apresentar melhora nas propriedades voltadas para diversas áreas de aplicação. Quando o material disperso na matriz polimérica se encontra na escala nanométrica, tem-se a formação de um nanocompósito, que pode ter ganhos ainda maiores nas suas propriedades mecânicas, térmicas, elétricas e ópticas, quando comparados aos compósitos convencionais. Esses materiais são usados, por exemplo, na fabricação de peças de automóveis e aviões, na área de alimentos e na área da medicina.
