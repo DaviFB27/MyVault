@@ -15,6 +15,13 @@ Isso causa um aumento na energia da superfície do material, tornando-o mais rea
 Materiais compósitos são o resultado da combinação de polímeros com outros materiais - como madeira, fibra de vidro, grafite -, e podem apresentar melhora nas propriedades voltadas para diversas áreas de aplicação. Quando o material disperso na matriz polimérica se encontra na escala nanométrica, tem-se a formação de um nanocompósito, que pode ter ganhos ainda maiores nas suas propriedades mecânicas, elétricas, ópticas, entre outras, quando comparados aos compósitos convencionais. Esses materiais são usados, por exemplo, na fabricação de peças de automóveis e aviões, na área de alimentos e na área da medicina.
 ### Classificação
 Podem ser classificados de acordo com as dimensões da fase dispersa:
+
 - Microcompósito: são materiais em que a fase dispersa é constituída por nanomateriais aglomerados, que formam estruturas na escala micrométrica, em que não ocorre intercalação da matriz polimérica, obtendo-se, portanto, um compósito de fases distintas.
+
 - Nanocompósito intercalado: são materiais que possuem um padrão repetitivo de intercalação entre as cadeias poliméricas e o reforço, porém a dispersão não é completa, resultando em áreas de maior e menor concentração de reforço, o que impacta nas propriedades mecânicas do nanocompósito.
+
 - Nanocompósito esfoliado: são materiais com uma dispersão uniforme do reforço na matriz polimérica. É o tipo de estrutura mais desejada para a maioria das aplicações.
+
+![[Pasted image 20230917191705.png]]
+![[Pasted image 20230917191730.png]]
+
