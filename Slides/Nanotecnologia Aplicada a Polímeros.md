@@ -37,3 +37,8 @@ A síntese de nanocompósitos deve promover uma distribuição uniforme do nanom
 ![[Pasted image 20230917195004.png]]
 
 ### Propriedades
+A presença de nanoestruturas, como as nanopartículas, dispersas na matriz polimérica, pode levar a mudanças significativas de algumas propriedades do material:
+
+- **Mecânica**: a interação entre as nanopartículas e a matriz polimérica podem atuar restringindo mecanismos que levam à deformação ou à fratura do material, alterando propriedades como a rigidez e a resistência à tração. Uma fratura, por exemplo, que se propagaria por todo o material homogêneo, pode ter sua progressão interrompida ao encontrar uma nanoestrutura dispersa na matriz. Para haver essa melhora nas características mecânicas, o nanomaterial deve estar disperso de maneira uniforme, evitando assim a formação de pontos concentradores de tensão. Nanotubos de carbono, grafeno e outros materiais à base de carbono têm sido amplamente utilizados em matrizes poliméricas pelo fato de possuírem alta resistência à tração e serem flexíveis.
+
+- **Eletrônicas**: nanomateriais condutores podem ser utilizados para dar a característica de condutor elétrico a um polímero isolante ou para aumentar ainda mais a transferência de carga de polímero condutores. Contudo, a quantidade e dispersão do nanomaterial condutor deve ser suficiente para criar caminhos contínuos para a condução de eletricidade. 
