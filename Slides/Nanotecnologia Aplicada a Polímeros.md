@@ -39,6 +39,32 @@ A síntese de nanocompósitos deve promover uma distribuição uniforme do nanom
 ### Propriedades
 A presença de nanoestruturas, como as nanopartículas, dispersas na matriz polimérica, pode levar a mudanças significativas de algumas propriedades do material:
 
-- **Mecânica**: a interação entre as nanopartículas e a matriz polimérica podem atuar restringindo mecanismos que levam à deformação ou à fratura do material, alterando propriedades como a rigidez e a resistência à tração. Uma fratura, por exemplo, que se propagaria por todo o material homogêneo, pode ter sua progressão interrompida ao encontrar uma nanoestrutura dispersa na matriz. Para haver essa melhora nas características mecânicas, o nanomaterial deve estar disperso de maneira uniforme, evitando assim a formação de pontos concentradores de tensão. Nanotubos de carbono, grafeno e outros materiais à base de carbono têm sido amplamente utilizados em matrizes poliméricas pelo fato de possuírem alta resistência à tração e serem flexíveis.
+- **Mecânica:** a interação entre as nanopartículas e a matriz polimérica podem atuar restringindo mecanismos que levam à deformação ou à fratura do material, alterando propriedades como a rigidez e a resistência à tração. Uma fratura, por exemplo, que se propagaria por todo o material homogêneo, pode ter sua progressão interrompida ao encontrar uma nanoestrutura dispersa na matriz. Para haver essa melhora nas características mecânicas, o nanomaterial deve estar disperso de maneira uniforme, evitando assim a formação de pontos concentradores de tensão. Nanotubos de carbono, grafeno e outros materiais à base de carbono têm sido amplamente utilizados em matrizes poliméricas pelo fato de possuírem alta resistência à tração e serem flexíveis.
 
-- **Eletrônicas**: nanomateriais condutores podem ser utilizados para dar a característica de condutor elétrico a um polímero isolante ou para aumentar ainda mais a transferência de carga de polímero condutores. Contudo, a quantidade e dispersão do nanomaterial condutor deve ser suficiente para criar caminhos contínuos para a condução de eletricidade. 
+- **Eletrônica:** nanomateriais condutores podem ser utilizados para dar a característica de condutor elétrico a um polímero isolante ou para aumentar ainda mais a transferência de carga de polímero condutores. Contudo, a quantidade e dispersão do nanomaterial condutor deve ser suficiente para criar caminhos contínuos para a condução de eletricidade. Materiais à base de carbono, como grafeno, negro de fumo e nanotubos de carbono são muito utilizados por apresentarem alta condutividade elétrica.
+
+- **Térmica:** pelo fato de apresentarem um alto coeficiente de expansão térmica, polímeros muitas vezes não são indicados para serem utilizados em aplicações nas quais mudanças abruptas de temperatura ocorrem. A utilização de materiais nanométricos dispersos na matriz polimérica pode resultar em uma diminuição do coeficiente de expansão. Os nanocompósitos podem também conferir maior condutividade térmica ao polímero ao se utilizar materiais que possuem boa condutividade térmica, auxiliando na dissipação de calor. Materiais à base de carbono, metais e cerâmica pode ser utilizados, pois apresentam alta condutividade térmica.
+
+### Aplicações
+Os nanocompósitos polímeros podem ser aplicados na fabricação de dispositivos utilizados em diversas áreas, graças à grande versatilidade desses materiais em termos de composição, morfologia e propriedades físico-químicas e biológicas finais. Algumas das principais aplicações dos nanocompósitos poliméricos são:
+
+- **Setor Biomédico:** nanocompósitos poliméricos são amplamente utilizados na área biomédica devido às suas propriedades especiais. Eles podem ser usados para desenvolver materiais para implantes médicos, como próteses e dispositivos de liberação controlada de medicamentos. Além disso, esses materiais podem ser usados na engenharia de tecidos, onde são utilizados para criar estruturas tridimensionais que imitam os tecidos biológicos.
+
+- **Sensores:** os nanocompósitos poliméricos também são aplicados na fabricação de sensores. Esses materiais podem ser usados para desenvolver sensores de gás, sensores de pressão, sensores de umidade e muitos outros tipos de sensores. A adição de nanopartículas aos polímeros melhora a sensibilidade e a seletividade dos sensores, tornando-os mais eficientes e precisos.
+
+- **Armazenamento de energia:** os nanocompósitos poliméricos também são utilizados em dispositivos de armazenamento de energia, como baterias e supercapacitores. A adição de nanopartículas aos polímeros melhora a condutividade elétrica e a capacidade de armazenamento de energia desses dispositivos. Isso resulta em baterias mais eficientes e de maior capacidade, que podem ser usadas em uma variedade de aplicações, desde eletrônicos portáteis até veículos elétricos.
+
+- **Embalagens alimentícias:** Nanocompósitos poliméricos são utilizados na fabricação de embalagens alimentícias para melhorar suas propriedades de barreira, resistência mecânica e vida útil dos alimentos. A adição de nanopartículas aos polímeros cria uma barreira eficiente contra a migração de oxigênio, umidade e outros contaminantes, mantendo os alimentos frescos por mais tempo e protegendo-os de deterioração.
+
+- **Tratamento de água:** Nanocompósitos poliméricos também são aplicados em sistemas de tratamento de água. Esses materiais podem ser usados para desenvolver membranas de filtração avançadas, que são capazes de remover contaminantes e poluentes da água de forma eficiente. Além disso, os nanocompósitos poliméricos podem ser usados na remoção de metais pesados e produtos químicos tóxicos da água, contribuindo para a purificação e descontaminação da água.
+
+## Conclusão
+Os nanocompósitos são materiais incrivelmente versáteis que encontram aplicações em uma ampla variedade de campos. Sua crescente relevância é impulsionada pelo fato de que, em comparação com os compósitos poliméricos convencionais, eles tendem a exibir propriedades superiores. Embora promissores, ainda há um vasto território inexplorado em termos de novas estruturas, composições e métodos de preparação desses materiais. Portanto, é necessário direcionar esforços contínuos para o avanço deste campo científico, que possui um potencial tremendo para impactar positivamente diversos setores da sociedade.
+
+## Frase
+
+```ad-quote
+⁠Grandes coisas são feitas por uma série de pequenas coisas reunidas.
+---
+*Vincent Van Gogh*
+```
